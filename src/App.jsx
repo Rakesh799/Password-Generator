@@ -52,7 +52,7 @@ function App() {
   return (
     <>
       <div className="flex flex-col justify-center items-center mt-4 md:w-1/2 mx-auto w-[90%] bg-[#ffe1fa] rounded-lg">
-        <div className="p-4 text-[#550036] font-bold text-4xl">Password Generator</div>
+        <div className="p-4 text-[#550036] font-bold text-4xl text-center">Password Generator</div>
         <div className="pb-4 px-4 text-[#550036] text-xl">Generate a random password in the blink of an eye and copy it effortlessly.</div>
 
         <div className='w-full flex justify-center'>
