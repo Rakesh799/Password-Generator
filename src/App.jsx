@@ -60,6 +60,7 @@ function App() {
             type="text"
             value={password}
             readOnly
+            // hello
           />
           <button className='px-2 py-1 rounded-r-lg bg-[#550036] text-[#ffe1fa] font-bold hover:bg-[#840053]'
             onClick={copyButton}
